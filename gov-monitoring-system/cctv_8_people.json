@@ -1,0 +1,66 @@
+[
+  {
+    "id": "TR-01",
+    "pose": "Desk Station #1 (Sitting)",
+    "cx": 0.5549,
+    "cy": 0.27,
+    "rw": 0.0583,
+    "rh": 0.1323
+  },
+  {
+    "id": "TR-02",
+    "pose": "Desk Station #2 (Sitting)",
+    "cx": 0.3753,
+    "cy": 0.2777,
+    "rw": 0.0562,
+    "rh": 0.1445
+  },
+  {
+    "id": "TR-03",
+    "pose": "Desk Station #3 (Sitting)",
+    "cx": 0.6319,
+    "cy": 0.2918,
+    "rw": 0.0609,
+    "rh": 0.1461
+  },
+  {
+    "id": "TR-04",
+    "pose": "Desk Station #4 (Sitting)",
+    "cx": 0.6511,
+    "cy": 0.3443,
+    "rw": 0.0546,
+    "rh": 0.0966
+  },
+  {
+    "id": "TR-05",
+    "pose": "Desk Station #5 (Sitting)",
+    "cx": 0.5944,
+    "cy": 0.4248,
+    "rw": 0.0918,
+    "rh": 0.1525
+  },
+  {
+    "id": "TR-06",
+    "pose": "Standing Center Aisle (Instructor)",
+    "cx": 0.4943,
+    "cy": 0.4696,
+    "rw": 0.074,
+    "rh": 0.35
+  },
+  {
+    "id": "TR-07",
+    "pose": "Standing / Moving",
+    "cx": 0.6067,
+    "cy": 0.4905,
+    "rw": 0.1128,
+    "rh": 0.2755
+  },
+  {
+    "id": "TR-08",
+    "pose": "Standing Center Aisle (Instructor)",
+    "cx": 0.4952,
+    "cy": 0.6118,
+    "rw": 0.1051,
+    "rh": 0.35
+  }
+]

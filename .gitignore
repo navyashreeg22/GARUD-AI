@@ -1,0 +1,29 @@
+# Node dependencies and build output
+node_modules/
+dist/
+
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Large video files
+*.avi
+*.mp4
+!gov-monitoring-system/public/sample_cctv.mp4
+*.mov
+
+# FFmpeg executable
+ffmpeg.exe
+
+# Training datasets
+datasets/
+runs/
+.vercel
+.env*

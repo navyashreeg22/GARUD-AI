@@ -1,0 +1,33 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "services": {
+    "gov-monitoring-system": {
+      "root": "gov-monitoring-system",
+      "framework": "vite"
+    },
+    "gtms": {
+      "root": "gov-monitoring-system/GTMS",
+      "framework": "vite"
+    }
+  },
+  "rewrites": [
+    {
+      "source": "/gtms",
+      "destination": {
+        "service": "gtms"
+      }
+    },
+    {
+      "source": "/gtms/(.*)",
+      "destination": {
+        "service": "gtms"
+      }
+    },
+    {
+      "source": "/(.*)",
+      "destination": {
+        "service": "gov-monitoring-system"
+      }
+    }
+  ]
+}

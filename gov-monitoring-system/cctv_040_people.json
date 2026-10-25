@@ -1,0 +1,26 @@
+[
+  {
+    "id": "TR-01",
+    "pose": "Sitting / Lab Bench",
+    "cx": 0.6473,
+    "cy": 0.3371,
+    "rw": 0.0584,
+    "rh": 0.069
+  },
+  {
+    "id": "TR-02",
+    "pose": "Sitting / Lab Bench",
+    "cx": 0.5975,
+    "cy": 0.4269,
+    "rw": 0.0968,
+    "rh": 0.1418
+  },
+  {
+    "id": "TR-03",
+    "pose": "Standing / Instructor",
+    "cx": 0.5314,
+    "cy": 0.6408,
+    "rw": 0.1164,
+    "rh": 0.5558
+  }
+]
