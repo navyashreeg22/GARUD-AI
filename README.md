@@ -1,4 +1,4 @@
-# DRISHTI — AI-Powered Training Centre Monitoring System
+# Garud — AI-Powered Training Centre Monitoring System
 
 **Vision for a trusted tomorrow.**
 
